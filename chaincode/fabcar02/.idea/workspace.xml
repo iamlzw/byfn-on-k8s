@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ce94fa8-28e1-42dd-9a0f-2de5c2873a06" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1n3Bs7yTVlI4W66vfvvj0l5yhXl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/lifegoeson/chaincode-practice" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="chaincode-practice" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/demo.go" />
+      <package value="github.com/lifegoeson/chaincode-practice" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/lifegoeson/chaincode-practice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="711" y="300" key="#Go_Modules" timestamp="1610609472576">
+      <screen x="65" y="24" width="1693" height="905" />
+    </state>
+    <state x="711" y="300" key="#Go_Modules/65.24.1693.905@65.24.1693.905" timestamp="1610609472576" />
+    <state width="1647" height="239" key="GridCell.Tab.0.bottom" timestamp="1610610016494">
+      <screen x="65" y="24" width="1693" height="905" />
+    </state>
+    <state width="1647" height="239" key="GridCell.Tab.0.bottom/65.24.1693.905@65.24.1693.905" timestamp="1610610016494" />
+    <state width="1647" height="239" key="GridCell.Tab.0.center" timestamp="1610610016491">
+      <screen x="65" y="24" width="1693" height="905" />
+    </state>
+    <state width="1647" height="239" key="GridCell.Tab.0.center/65.24.1693.905@65.24.1693.905" timestamp="1610610016491" />
+    <state width="1647" height="239" key="GridCell.Tab.0.left" timestamp="1610610016489">
+      <screen x="65" y="24" width="1693" height="905" />
+    </state>
+    <state width="1647" height="239" key="GridCell.Tab.0.left/65.24.1693.905@65.24.1693.905" timestamp="1610610016489" />
+    <state width="1647" height="239" key="GridCell.Tab.0.right" timestamp="1610610016493">
+      <screen x="65" y="24" width="1693" height="905" />
+    </state>
+    <state width="1647" height="239" key="GridCell.Tab.0.right/65.24.1693.905@65.24.1693.905" timestamp="1610610016493" />
+  </component>
+</project>
