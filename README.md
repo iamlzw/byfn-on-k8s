@@ -142,7 +142,15 @@ $ kubectl get pods -n byfn
 ### 5、安装实例化智能合约
 
 因为没有部署cli容器，而是直接在terminal中执行相关操作，所以需要将chaincode复制到```$GOPATH/src```目录下
-
+修改```/etc/hosts```,添加以下内容，IP为主节点或者从节点IP都可以。我们在访问peer或者orderer时，请求的domain name应当与peer或者orderer中的common name一致，否则会报错，“tls：bad certificates”，具体参考http://lifegoeson.cn/2021/03/14/peer%20channel%20join%20%E6%97%B6%E6%8A%A5%E9%94%99TLS%20handshake%20failed%20with%20error%20remote%20error%20tls%20bad%20certificate%20server=PeerServer%20remoteaddress/
+```
+192.168.126.128 orderer.example.com
+192.168.126.128 peer0.org1.example.com
+192.168.126.128 peer1.org1.example.com
+192.168.126.128 peer0.org2.example.com
+192.168.126.128 peer1.org2.example.com
+```
+执行初始化脚本
 ```bash
 $ cd /home/www/byfn-on-k8s
 $ sudo cp -r chaincode $GOPATH/src
