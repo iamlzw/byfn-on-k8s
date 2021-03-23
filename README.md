@@ -148,7 +148,7 @@ $ cd /home/www/byfn-on-k8s
 $ sudo cp -r chaincode $GOPATH/src
 $ ./init.sh
 ```
-
+这里需要等待一会，因为初始化链码以及invoke会耗费一点时间。
 ![imagec01ac4f6c80d5129.png](http://lifegoeson.cn:8888/images/2021/03/22/imagec01ac4f6c80d5129.png)
 
 init脚本的内容基本上参考https://hyperledger-fabric.readthedocs.io/en/release-1.4/chaincode4noah.html#installing-chaincode
