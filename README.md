@@ -27,6 +27,7 @@ kubernetes集群 v1.16.2
 ```
 
 docker 19.03
+
 nfs
 
 关于如何部署k8s集群以及安装docker，本文不做讨论。
