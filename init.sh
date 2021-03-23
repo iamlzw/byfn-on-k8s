@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #export env
-export PATH=/home/www/go/src/github.com/hyperledger/fabric-samples/bin:$PATH
+#export PATH=/home/www/go/src/github.com/hyperledger/fabric-samples/bin:$PATH
 export FABRIC_CFG_PATH=/home/www/go/src/github.com/hyperledger/fabric-samples/config/
 
 export CORE_PEER_TLS_ENABLED=true
