@@ -31,7 +31,7 @@ docker 19.03
 下载fabric v1.4.2 二进制文件
 ```bash
 $ cd /home/www/byfn-0n-k8s
-$ wget https://github.com.cnpmjs.org/hyperledger/fabric/releases/download/v1.4.2/hyperledger-fabric-linux-amd64-1.4.2.tar.gz
+$ wget https://github.com/hyperledger/fabric/releases/download/v1.4.2/hyperledger-fabric-linux-amd64-1.4.2.tar.gz
 $ tar -xvf hyperledger-fabric-linux-amd64-1.4.2.tar.gz
 ## 将可执行文件添加到path路径
 $ export PATH=/home/www/byfn-on-k8s/bin:$PATH
